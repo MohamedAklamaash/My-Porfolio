@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Web simulation of UbuntuOS
 
 This is a personal portfolio website of theme Ubuntu 20.04, made using Next.js & tailwind CSS.
@@ -61,3 +62,6 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Added some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+=======
+# My-Porfolio
+>>>>>>> 0794af762eff8773db1f8d3a7323857eb7bbc4fd
