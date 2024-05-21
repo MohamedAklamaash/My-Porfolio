@@ -497,7 +497,7 @@ function Projects() {
             domains: ["typescript", "node js", "react js", "tailwindcss"],
         },
         {
-            name: "Skecth book",
+            name: "Sketch book",
             date: "Feb 2024",
             link: "https://github.com/MohamedAklamaash/SketchBook",
             description: ["Users can mould their imaginations into drawings. "],
